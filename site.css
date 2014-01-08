@@ -8,3 +8,5 @@ body {
   margin-right: auto;
   padding-left: 20px;
   padding-right: 20px; }
+  #container .grabber {
+    color: #c41e3a; }
