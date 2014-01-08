@@ -1,0 +1,18 @@
+// Sass converted to CSS with the sass gem.
+
+// https://en.wikipedia.org/wiki/Cardinal_(color)
+$color-red: #C41E3A;
+$color-font: #333;
+
+body {
+  font-family: "aw-conqueror-carved-two", sans-serif;
+  color: $color-font;
+}
+
+#container {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
